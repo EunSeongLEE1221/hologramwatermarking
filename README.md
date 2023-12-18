@@ -3,7 +3,6 @@
 Watermarking using Guided Attack Module"
 
 Data from JPEG Pleno Holography
-
 https://plenodb.jpeg.org/  
 https://jpeg.org/jpegpleno/plenodb.html   
 Licensing information is included with the images
